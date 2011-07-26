@@ -1,4 +1,5 @@
-# Can something be both a zc.buildout recipe and a stand-alone script?
+# Question: Can a package be both a zc.buildout recipe and a stand-alone script?
+# Answer: Yes!
 
 def script():
     print 'I am a console script!'
