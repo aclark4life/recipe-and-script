@@ -1,4 +1,4 @@
-# Question: Can a package be both a zc.buildout recipe and a stand-alone script?
+# Question: Can a package contain both a zc.buildout recipe and a setuptools console script?
 # Answer: Yes!
 
 def script():
